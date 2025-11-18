@@ -382,17 +382,6 @@ pytest -q
 
 ---
 
-## Contributing
-
-PRs and issues welcome!
-Please include:
-
-* clear repro steps,
-* small sample data in `data/raw/mini/`,
-* before/after metrics if changing retrieval or prompts.
-
----
-
 ## License
 
 MIT — see `LICENSE` for details.
